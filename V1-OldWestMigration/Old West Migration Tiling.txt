@@ -53,7 +53,7 @@ remnant_oldwest_03 (Tiling Deco)
 remnant_oldwest_05 (Tiling Deco)
 remnant_oldwest_06 (Tiling Deco)
 remnant_oldwest_08 (Tiling Deco)
-trader_oldwest_bob - CONVERSION from A20 (Tiling Deco)
+trader_oldwest_bob - CONVERSION from A20 (Tiling Deco) - CURRENTLY REMOVED SINCE IT DOES NOT ALLOW NEXT TRADER PROGRESSION IN V1.0
 
 CUSTOM OLD WEST MIGRATION POIS = 9
 deco_desertsmallcamp_01 (Desert Biome Deco)
