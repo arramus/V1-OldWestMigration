@@ -153,11 +153,12 @@ OVERALL TOTAL = 17
 =========================================================
 = QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED =
 =========================================================
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 10
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 11
 oldwest_apper_01 (T3 C+F+RP+I)
 oldwest_bank_01 (T3 C+F+RP+I)
 oldwest_bony_xpress_01 (T3 C+F+RP+I)
 oldwest_bubbles_01 (T3 C+F+RP+I)
+oldwest_cran5000soda_01 (T3 C+F+RP+I)
 oldwest_dukepatrol_01 (T3 C+F+RP+I)
 oldwest_lyttletrippers_01 (T3 T3 C+F+RP+I)
 oldwest_mine_01 (T3 C+F+RP+I)
@@ -165,7 +166,7 @@ oldwest_schoolfix_01 (T3 C+F+RP+I)
 oldwest_station_01 (T3 C+F+RP+I)
 oldwest_woodpecker_01 (T3 C+F+RP+I)
 
-OVERALL TOTAL = 10
+OVERALL TOTAL = 11
 
 =========================================================
 = QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED =
@@ -212,8 +213,8 @@ OVERALL TOTAL = 19 Base + Infested expansion from T1
 ================
 = QUEST TIER 3 =
 ================
-QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED = 10
-OVERALL TOTAL = 10 Base + Infested expansion from T2
+QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED = 11
+OVERALL TOTAL = 11 Base + Infested expansion from T2
 
 ================
 = QUEST TIER 4 =
@@ -232,10 +233,10 @@ OVERALL TOTAL = 1 Base + Infested expansion from T4
 ================
 OVERALL TOTAL = 1 Infested expansion from T5
 
---------------------------------------------------------------------------------------------
-OVERALL TOTALS = 58 Base + Expanded Infested Upgrade Variants for A21 Old West Migration Mod.
+----------------------------------------------------------------------------------------------
+OVERALL TOTALS = 59 Base + Expanded Infested Upgrade Variants for V1.0 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
---------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 
 ------
 TILING
