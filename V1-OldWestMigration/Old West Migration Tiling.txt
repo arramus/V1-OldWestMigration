@@ -139,6 +139,7 @@ oldwest_dukepower_01 (T2 C+F+RP+I)
 oldwest_gfv_01 (T2 C+F+RP+I)
 oldwest_gold_01 (T2 C+F+RP+I)
 oldwest_gunshop_01 (T2 C+F+RP+I)
+oldwest_hydroponics_01 (T2 C+F+RP+I)
 oldwest_market_01 (T2 C+F+RP+I) 
 oldwest_meatloaf_01 (T2 C+F+RP+I)
 oldwest_ministrip_01 (T2 C+F+RP+I)
@@ -148,7 +149,7 @@ oldwest_stables_02 (T2 C+F+RP+I)
 oldwest_sweeney_01 (T2 C+F+RP+I)						  
 oldwest_tobacco_01 (T2 C+F+RP+I)
 
-OVERALL TOTAL = 17
+OVERALL TOTAL = 18
 
 =========================================================
 = QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED =
@@ -208,8 +209,8 @@ OVERALL TOTAL = 24 Base
 = QUEST TIER 2 =
 ================
 QUEST TIER 2 CLEAR + FETCH + INFESTED = 2
-QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 17
-OVERALL TOTAL = 19 Base + Infested expansion from T1
+QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 18
+OVERALL TOTAL = 20 Base + Infested expansion from T1
 
 ================
 = QUEST TIER 3 =
@@ -235,7 +236,7 @@ OVERALL TOTAL = 1 Base + Infested expansion from T4
 OVERALL TOTAL = 1 Infested expansion from T5
 
 ----------------------------------------------------------------------------------------------
-OVERALL TOTALS = 60 Base + Expanded Infested Upgrade Variants for V1.0 Old West Migration Mod.
+OVERALL TOTALS = 61 Base + Expanded Infested Upgrade Variants for V1.0 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
 ----------------------------------------------------------------------------------------------
 
