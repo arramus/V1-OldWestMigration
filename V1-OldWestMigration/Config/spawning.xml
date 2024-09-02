@@ -1,0 +1,46 @@
+<configs>
+
+<!-- *** BIOME_SPAWNING -->
+
+	<!-- *** PINE_FOREST_SPAWNS -->
+	<append xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='ZombiesAll']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='ZombiesNight']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='pine_forest']">
+		<spawn maxcount="2" respawndelay="0.15" time="Day" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+		<spawn maxcount="3" respawndelay="0.1" time="Night" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+	</append>
+
+	<!-- *** BURNT_FOREST_SPAWNS -->
+	<append xpath="/spawning/biome[@name='burnt_forest']/spawn[@entitygroup='ZombiesAll']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='burnt_forest']/spawn[@entitygroup='ZombiesNight']/@notags">,oldwest</append>	
+	<append xpath="/spawning/biome[@name='burnt_forest']">
+		<spawn maxcount="2" respawndelay="0.15" time="Day" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+		<spawn maxcount="3" respawndelay="0.1" time="Night" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+	</append>	
+
+	<!-- *** DESERT_SPAWNS -->
+	<append xpath="/spawning/biome[@name='desert']/spawn[@entitygroup='ZombiesAll']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='desert']/spawn[@entitygroup='ZombiesNight']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='desert']">
+		<spawn maxcount="2" respawndelay="0.15" time="Day" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+		<spawn maxcount="3" respawndelay="0.1" time="Night" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+	</append>
+
+	<!-- *** SNOW_SPAWNS -->
+	<append xpath="/spawning/biome[@name='snow']/spawn[@entitygroup='SnowZombies']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='snow']/spawn[@entitygroup='ZombiesNight']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='snow']/spawn[@entitygroup='ZombiesAll']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='snow']">
+		<spawn maxcount="2" respawndelay="0.15" time="Day" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+		<spawn maxcount="3" respawndelay="0.1" time="Night" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+	</append>
+
+	<!-- *** WASTELAND_SPAWNS -->
+	<append xpath="/spawning/biome[@name='wasteland']/spawn[@entitygroup='ZombiesWasteland']/@notags">,oldwest</append>
+	<append xpath="/spawning/biome[@name='wasteland']/spawn[@entitygroup='ZombiesWastelandNight']/@notags">,oldwest</append>	
+	<append xpath="/spawning/biome[@name='wasteland']">
+		<spawn maxcount="2" respawndelay="0.05" time="Day" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+		<spawn maxcount="3" respawndelay="0.025" time="Night" entitygroup="ZombieGhostTownGroupGS1" tags="oldwest" />
+	</append>
+	
+</configs>
