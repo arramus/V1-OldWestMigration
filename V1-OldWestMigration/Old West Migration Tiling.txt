@@ -1,6 +1,6 @@
-===============================
-= V1.0 OLD WEST MIGRATION MOD =
-===============================
+=============================
+= V1 OLD WEST MIGRATION MOD =
+=============================
 
 CONTENTS:
 
@@ -53,7 +53,7 @@ remnant_oldwest_03 (Tiling Deco)
 remnant_oldwest_05 (Tiling Deco)
 remnant_oldwest_06 (Tiling Deco)
 remnant_oldwest_08 (Tiling Deco)
-trader_oldwest_bob - CONVERSION from A20 (Tiling Deco) - CURRENTLY REMOVED SINCE IT DOES NOT ALLOW NEXT TRADER PROGRESSION IN V1.0
+trader_oldwest_bob - CONVERSION from A20 - Only appears in Desert biome in town system for V1
 
 CUSTOM OLD WEST MIGRATION POIS = 9
 deco_desertsmallcamp_01 (Desert Biome Deco)
@@ -259,10 +259,10 @@ OVERALL TOTAL = 3 Base + Infested expansion from T4
 ================
 OVERALL TOTAL = 3 Infested expansion from T5
 
-----------------------------------------------------------------------------------------------
-OVERALL TOTALS = 80 Base + Expanded Infested Upgrade Variants for V1.0 Old West Migration Mod.
+---------------------------------------------------------------------------------------------
+OVERALL TOTALS = 80 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
-----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 ------
 TILING

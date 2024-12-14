@@ -25,6 +25,8 @@
 		<property name="mintiles" value="1"/>
 		<property name="maxdensity" value="120"/>
 	</streettile>
+	
+	<prefab_spawn_adjust partial_name="trader_oldwest_bob" biomeTags="desert" bias="21" min_count="1" max_count="2"/>
 
 	</append>
 
