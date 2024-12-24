@@ -1,0 +1,32 @@
+<Servers>
+  <ServerGroup Name="Old West Migration (V1)">
+    <Server Name="Old West Migration (V1)" Logo="https://i.imgur.com/kDWn2I7.jpg">
+      <Description>Old West Town Expansion.
+	  
+Features Include:
+- Increases the size of the Old West Tiling system by increasing the amount of tiles in each town
+- Increases the amount of Old West Town settlements that can appear in a RWG
+- Adds a Gateway road and chance for a Trader within the town or at the entrance to a town
+- Adds custom Old West POIs that can be quested and are in context with the Old West theme
+- Converts remnant and decorative default Old West POIs to Quest POIs
+- Adds custom Old West Tiles
+- Adds decoration POIs to the desert and forest biomes
+- Adds roaming zombies to the Old West Town streets, just like in the City or other Tiling Systems
+- Removes the V1 Old West Town biome restriction from only desert to forest, burnt forest, and snow
+- Adds Old West Trader Bob to the Desert biome Old West town
+- Used in Preppocalypse and The Wild West Mod 
+  
+Brought to you by arramus.
+
+	  </Description>
+        <Version>V1</Version>
+		<RSS/>
+        <Excludes></Excludes>
+        <ReleaseNotes></ReleaseNotes>
+        <Discord>https://discord.gg/PFMY8rqQVs</Discord>
+        <Donate></Donate>
+        <DownloadMode>Clone</DownloadMode>
+      <Downloads><Download>https://github.com/arramus/V1-OldWestMigration</Download></Downloads>   
+    </Server>
+  </ServerGroup>
+</Servers>

@@ -15,6 +15,7 @@
   <property name="ExcludePOICulling" value="True" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="oldwest, gateway, nocheckpoint" />
+  <property name="QuestTags" value="trader, traderBob" />
   <property name="ThemeTags" value="trader" />
   <property name="ThemeRepeatDistance" value="800" />
   <property name="PrefabSize" value="42, 21, 42" />
