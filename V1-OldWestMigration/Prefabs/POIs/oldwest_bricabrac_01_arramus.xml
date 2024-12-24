@@ -23,15 +23,15 @@
   <property name="YOffset" value="-1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="388825" />
-    <property name="TotalTriangles" value="162437" />
+    <property name="TotalVertices" value="384847" />
+    <property name="TotalTriangles" value="163302" />
     <property class="BlockEntities">
-      <property name="Vertices" value="345224" />
-      <property name="Triangles" value="136643" />
+      <property name="Vertices" value="338666" />
+      <property name="Triangles" value="136218" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="41785" />
-      <property name="Triangles" value="23118" />
+      <property name="Vertices" value="44365" />
+      <property name="Triangles" value="24408" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -58,14 +58,23 @@
     <property class="Rally">
       <property name="0" value="9, 2, 2" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="7, 1, 6" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="7, 7, 6" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="13, 6, 18" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="17, 1, 20" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="11, 1, 20" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="22, 1, 17" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="6, 6, 14" />
