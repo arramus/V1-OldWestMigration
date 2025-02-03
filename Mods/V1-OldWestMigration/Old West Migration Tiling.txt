@@ -94,7 +94,7 @@ OVERALL TOTAL = 5
 =========================================
 = QUEST TIER 1 CLEAR + FETCH + INFESTED =
 =========================================
-DEFAULT TFP POIS Clear + Fetch + Infested (C+F+I) = 20
+DEFAULT TFP POIS Clear + Fetch + Infested (C+F+I) = 29
 oldwest_business_01 (T1 C+F+I)
 oldwest_business_08 (T1 C+F+I)
 oldwest_business_10 (T1 C+F+I)
@@ -113,7 +113,16 @@ oldwest_store_book_04 - CONVERSION - (T1 C+F+I)
 oldwest_store_grocery_04 - CONVERSION - (T1 C+F+I)
 oldwest_strip_03 (T1 C+F+I)
 oldwest_strip_04 (T1 C+F+I)
+oldwest_survivor_site_01 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_02 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_03 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_04 - CONVERSION - (T1 C+F+I)
 oldwest_survivor_site_05 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_06 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_07 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_08 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_09 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_11 - CONVERSION - (T1 C+F+I)
 remnant_oldwest_04 (Deco) - CONVERSION - (T1 C+F+I)
 
 CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Infested (C+F+I) = 3
@@ -121,7 +130,7 @@ oldwest_abandoned_house_02 (T1 C+F+I)
 oldwest_stables_01 (T1 C+F+I)
 oldwest_station_02 (T1 C+F+I)
 
-OVERALL TOTAL = 23					  
+OVERALL TOTAL = 32					  
 
 =========================================
 = QUEST TIER 2 CLEAR + FETCH + INFESTED =
@@ -227,8 +236,8 @@ This explains the reason for Quest Tier 6 for Infested connected to Quest Tier 5
 ================
 QUEST TIER 1 CLEAR + FETCH = 4
 QUEST TIER 1 CLEAR + INFESTED = 5
-QUEST TIER 1 CLEAR + FETCH + INFESTED = 23
-OVERALL TOTAL = 32 Base
+QUEST TIER 1 CLEAR + FETCH + INFESTED = 32
+OVERALL TOTAL = 41 Base
 
 ================
 = QUEST TIER 2 =
@@ -261,7 +270,7 @@ OVERALL TOTAL = 3 Base + Infested expansion from T4
 OVERALL TOTAL = 3 Infested expansion from T5
 
 ---------------------------------------------------------------------------------------------
-OVERALL TOTALS = 81 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
+OVERALL TOTALS = 90 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
 ---------------------------------------------------------------------------------------------
 
