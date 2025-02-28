@@ -14,24 +14,24 @@
   <property name="YOffset" value="-6" />
   <property name="Tags" value="oldwest" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
-  <property name="SleeperVolumeSize" value="14, 3, 17#17, 3, 7#21, 3, 8#9, 4, 14#16, 3, 8#4, 3, 12#5, 3, 7#7, 3, 7#12, 3, 8#16, 3, 15#22, 3, 15#4, 3, 8#4, 3, 6#41, 3, 17" />
-  <property name="SleeperVolumeStart" value="28, 1, 1#3, 1, 15#3, 1, 7#37, 6, 7#20, 6, 6#16, 6, 9#11, 6, 14#4, 6, 14#4, 6, 6#4, 11, 6#20, 11, 6#42, 11, 6#42, 11, 15#6, 16, 5" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="GroupSpecialInfected,4,6,GroupLabWorker,1,2,GroupLabWorker,3,4,ZomUtilityWorker,1,2,GroupHospital,4,5,GroupNightClub,2,3,GroupNightClub,2,3,GroupGenericZombie,3,4,GroupGenericZombie,4,5,GroupGenericZombie,7,9,GroupZomBadass,10,12,GroupGenericZombie,2,3,GroupGenericZombie,1,2,GroupGenericZombie,3,4" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,2" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # " />
+  <property name="SleeperVolumeSize" value="14, 3, 17#17, 3, 7#21, 3, 8#9, 4, 14#16, 3, 8#4, 3, 12#5, 3, 7#7, 3, 7#12, 3, 8#16, 3, 15#22, 3, 15#4, 3, 8#4, 3, 6#41, 3, 17#17, 3, 6" />
+  <property name="SleeperVolumeStart" value="28, 1, 1#3, 1, 15#3, 1, 7#37, 6, 7#20, 6, 6#16, 6, 9#11, 6, 14#4, 6, 14#4, 6, 6#4, 11, 6#20, 11, 6#42, 11, 6#42, 11, 15#6, 16, 5#20, 6, 15" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupSpecialInfected,5,7,GroupLabWorker,2,3,GroupLabWorker,3,4,ZomUtilityWorker,1,2,GroupHospital,4,5,GroupNightClub,2,3,GroupNightClub,2,3,GroupGenericZombie,3,4,GroupGenericZombie,5,6,GroupGenericZombie,7,9,GroupZomBadass,10,12,GroupGenericZombie,3,4,GroupGenericZombie,1,2,GroupZomBadassOnly,6,7,GroupHospital,4,5" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,2,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1027272" />
-    <property name="TotalTriangles" value="377233" />
+    <property name="TotalVertices" value="1080120" />
+    <property name="TotalTriangles" value="393216" />
     <property class="BlockEntities">
-      <property name="Vertices" value="894331" />
-      <property name="Triangles" value="289378" />
+      <property name="Vertices" value="947027" />
+      <property name="Triangles" value="305285" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="124633" />
-      <property name="Triangles" value="76526" />
+      <property name="Vertices" value="124785" />
+      <property name="Triangles" value="76602" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -60,6 +60,7 @@
     </property>
     <property class="challenge_steel">
       <property name="0" value="47, 14, 5" />
+      <property name="1" value="41, 16, 11" />
     </property>
     <property class="POILight">
       <property name="0" value="43, 13, 13" />
