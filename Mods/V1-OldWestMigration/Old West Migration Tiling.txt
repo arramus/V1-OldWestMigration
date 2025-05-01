@@ -217,12 +217,13 @@ OVERALL TOTAL = 6
 DEFAULT TFP POIS Clear + Fetch + Infested - CONVERSION (C+F+I) = 1
 oldwest_rural_church_01 (T5 C+F+I)
 
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Infested (C+F+I) = 3
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Infested (C+F+I) = 4
+oldwest_loveshack_hotel_01 (T5 C+F+I)
 oldwest_nitrary_01 (T5 C+F+I)
 oldwest_patrol_nation_01 (T5 C+F+I)
 oldwest_store_gun_01 (T5 C+F+I)
 
-OVERALL TOTAL = 4
+OVERALL TOTAL = 5
 
 ---------------------------------------------------------------------
 
@@ -263,16 +264,16 @@ OVERALL TOTAL = 6 Base + Infested expansion from T3
 ================
 = QUEST TIER 5 =
 ================
-QUEST TIER 5 CLEAR + FETCH + INFESTED = 4
-OVERALL TOTAL = 4 Base + Infested expansion from T4
+QUEST TIER 5 CLEAR + FETCH + INFESTED = 5
+OVERALL TOTAL = 5 Base + Infested expansion from T4
 
 ================
 = QUEST TIER 6 =
 ================
-OVERALL TOTAL = 4 Infested expansion from T5
+OVERALL TOTAL = 5 Infested expansion from T5
 
 ---------------------------------------------------------------------------------------------
-OVERALL TOTALS = 92 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
+OVERALL TOTALS = 93 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
 ---------------------------------------------------------------------------------------------
 
