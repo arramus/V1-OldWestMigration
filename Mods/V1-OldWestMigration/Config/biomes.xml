@@ -66,7 +66,7 @@
 			<decoration type="prefab" name="deco_desertsmallcamp_02"  onslopes="false" prob=".0007" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_01"  onslopes="false" prob=".0005" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_02"  onslopes="false" prob=".0005" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>			
+			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>
 	</append>
 	<!-- *** Desert: Sub Biome: Thick Grass and Shrubs-->
 	<append xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.24']/decorations">
@@ -74,15 +74,15 @@
 			<decoration type="prefab" name="deco_desertsmallcamp_02"  onslopes="false" prob=".0007" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_01"  onslopes="false" prob=".0005" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_02"  onslopes="false" prob=".0005" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>			
+			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>
 	</append>
-	<!-- *** Desert: Ore Sub Biome: oilDeposit -->
+	<!-- *** Desert: Ore Sub Biome: oilDeposit --> <!-- Token Gesture to retain oilDeposit -->
 	<append xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.402']/decorations">
-			<decoration type="prefab" name="deco_desertsmallcamp_01"  onslopes="false" prob=".0007" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertsmallcamp_02"  onslopes="false" prob=".0007" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_01"  onslopes="false" prob=".0005" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_02"  onslopes="false" prob=".0005" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>			
+			<decoration type="prefab" name="deco_desertsmallcamp_01"  onslopes="false" prob=".000175" rotatemax="3"/>
+			<decoration type="prefab" name="deco_desertsmallcamp_02"  onslopes="false" prob=".000175" rotatemax="3"/>
+			<decoration type="prefab" name="deco_desertoasis_01"  onslopes="false" prob=".0000625" rotatemax="3"/>
+			<decoration type="prefab" name="deco_desertoasis_02"  onslopes="false" prob=".0000625" rotatemax="3"/>
+			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0000625" rotatemax="3"/>
 	</append>
 	<!-- *** Desert: Ore Sub Biome: potassiumNitrate -->
 	<append xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.412']/decorations">
@@ -90,7 +90,7 @@
 			<decoration type="prefab" name="deco_desertsmallcamp_02"  onslopes="false" prob=".0007" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_01"  onslopes="false" prob=".0005" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_02"  onslopes="false" prob=".0005" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>			
+			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>
 	</append>
 	<!-- *** Desert: Ore Sub Biome: leadOre -->
 	<append xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.442']/decorations">
@@ -98,7 +98,7 @@
 			<decoration type="prefab" name="deco_desertsmallcamp_02"  onslopes="false" prob=".0007" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_01"  onslopes="false" prob=".0005" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_02"  onslopes="false" prob=".0005" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>			
+			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>	
 	</append>
 	<!-- Decorations Main: Desert -->	
 	<append xpath="/worldgeneration/biomes/biome[@name='desert']/decorations">
@@ -106,6 +106,6 @@
 			<decoration type="prefab" name="deco_desertsmallcamp_02"  onslopes="false" prob=".0007" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_01"  onslopes="false" prob=".0005" rotatemax="3"/>
 			<decoration type="prefab" name="deco_desertoasis_02"  onslopes="false" prob=".0005" rotatemax="3"/>
-			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>			
+			<decoration type="prefab" name="deco_desertoasis_03"  onslopes="false" prob=".0005" rotatemax="3"/>
 	</append>	
 </configs>

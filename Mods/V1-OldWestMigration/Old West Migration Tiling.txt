@@ -201,6 +201,9 @@ OVERALL TOTAL = 15
 =========================================================
 = QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED =
 =========================================================
+DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested - CONVERSION (C+F+RP+I) = 1
+oldwest_downtown_filler_07 (T4 C+F+RP+I)
+
 CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 7
 oldwest_25x50_corn_01 (T4 C+F+RP+I)
 oldwest_jeanssteaks_01 (T4 C+F+RP+I)
@@ -210,7 +213,7 @@ oldwest_spectabcem_01 (T4 C+F+RP+I)
 oldwest_splint_eastwood_01 (T4 C+F+RP+I)
 oldwest_workhands_01_arramus (T4 C+F+RP+I)
 
-OVERALL TOTAL = 7
+OVERALL TOTAL = 8
 
 =========================================
 = QUEST TIER 5 CLEAR + FETCH + INFESTED =
@@ -259,8 +262,8 @@ OVERALL TOTAL = 15 Base + Infested expansion from T2
 ================
 = QUEST TIER 4 =
 ================
-QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED = 7
-OVERALL TOTAL = 7 Base + Infested expansion from T3
+QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED = 8
+OVERALL TOTAL = 8 Base + Infested expansion from T3
 
 ================
 = QUEST TIER 5 =
@@ -274,7 +277,7 @@ OVERALL TOTAL = 5 Base + Infested expansion from T4
 OVERALL TOTAL = 5 Infested expansion from T5
 
 ---------------------------------------------------------------------------------------------
-OVERALL TOTALS = 94 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
+OVERALL TOTALS = 95 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
 ---------------------------------------------------------------------------------------------
 
